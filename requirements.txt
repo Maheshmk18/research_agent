@@ -1,0 +1,22 @@
+# Python Dependencies
+# AI and LLM Frameworks
+langchain
+langgraph
+langsmith
+groq
+
+# Backend Framework
+fastapi
+uvicorn
+
+# Database
+pymongo
+pinecone-client
+
+# Search API
+tavily-python
+
+# Data Validation
+pydantic
+
+
